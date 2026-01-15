@@ -1,0 +1,3 @@
+[submodule "lib/Gamepad-Core"]
+	path = lib/Gamepad-Core
+	url = https://github.com/rafaelvaloto/Gamepad-Core.git

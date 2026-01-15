@@ -1,0 +1,13 @@
+﻿cmake-build-debug
+cmake-build-release
+bin/template
+.idea
+.vscode
+*.swp
+*.swo
+.DS_Store
+*.log
+*.out
+*.exe
+*.obj
+*.o
