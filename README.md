@@ -1,6 +1,6 @@
-﻿# DualSense Native Mods (Audio Haptics - Usb/Bluetooth)
+﻿
 
-![Banner Image](https://github.com/rafaelvaloto/Gaming-Mods-Dualsense/raw/main/banner.png)
+# Gaming Dualsense Native Mods (Audio Haptics - Usb/Bluetooth)
 
 ## 🚀 Native Bluetooth Audio Haptics Mod
 This project brings **native DualSense Audio Haptics support over Bluetooth** to PC games. 
@@ -10,7 +10,6 @@ Unlike other solutions, **this does NOT require paid software** like DSX running
 ### ✨ Features
 * **🔊 Audio Haptics over Bluetooth:** Captures game audio and converts it to HD vibration in real-time. Works wirelessly!
 * **🎮 Plug & Play:** No complex configuration needed.
----
 
 ## 🛹 Session: Skate Sim Mod (Special Edition)
 This version is tailored specifically for *Session: Skate Sim*.
