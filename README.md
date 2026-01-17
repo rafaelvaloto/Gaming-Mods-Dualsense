@@ -46,7 +46,7 @@ This mod brings **native DualSense support** to Session: Skate Sim on PC. It com
 
 
 
-1.  Download the latest `session-dualsense-mod.zip` from **[Releases](https://github.com/rafaelvaloto/Session-Dualsense-Mod/releases/tag/v0.0.10)**.
+1.  Download the latest `session-dualsense-mod.zip` from **[Releases](https://github.com/rafaelvaloto/Session-Dualsense-Mod/releases/latest)**.
 
 2.  Navigate to your game folder:
    * **Steam:**
