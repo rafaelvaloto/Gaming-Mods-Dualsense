@@ -15,6 +15,11 @@
 </div>
 
 
+This mod brings **native DualSense support** to Session: Skate Sim on PC. It communicates directly with the controller to provide next-gen features via Bluetooth or USB, without requiring DS4Windows or paid software.
+
+
+---
+
 ## 🛠️ Recent Fixes
 
 > [!IMPORTANT]
@@ -25,7 +30,7 @@
 - **Impact:** This delay was causing "input read accumulation," where the controller data was being processed slower than it was being received. This led to heavy input lag, "frozen" controls, and stuttering responses.
 - **Solution:** Removed the excessive sleep interval from the Bluetooth update loop, allowing real-time, fluid communication with the DualSense.
 
-This mod brings **native DualSense support** to Session: Skate Sim on PC. It communicates directly with the controller to provide next-gen features via Bluetooth or USB, without requiring DS4Windows or paid software.
+---
 
 ## ✨ Features
 * **Audio-Based Haptics:** Feel the texture of the ground, grinds, and impacts through the controller's voice coil actuators.
